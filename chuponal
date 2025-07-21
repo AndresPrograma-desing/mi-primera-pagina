@@ -1,0 +1,63 @@
+<!DOCTYPE html> <!-- chrome "$(FULL_CURRENT_PATH) -->
+<html lang="es"> 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Historia de chuponal</title>
+  <link rel="stylesheet" href="stilos.css">
+</head>
+<body>
+  <header>
+    <h1>Reseña Histórica de Chuponal</h1>
+    <p class="subtitulo">Una mirada reflexiva al pasado de nuestro pueblo.</p>
+  </header>
+
+  <main>
+    <section class="introduccion">
+      <h2>Historia Principal:</h2>
+      <p>La Fundación de Chuponal no tiene una fecha exacta. Pero se estima que fue fundado aproximadamente en 1918. Su nombre proviene de la gran abundancia para ese entonces del Árbol llamado Chupón. 
+dicha Informacion es suministrada por algunos de los primeros pobladores de dicha comunidad
+inicialmente se ubico en el sector la 
+"Balsa" cuyo nombre denominado así por ser parte del Río Canaguá, y era la vía existente para las personas transladarse desde Pedraza hasta la Ciudad De Barinas. Entre los primeros pobladores de Chuponal tenemos.</p>
+<p>En ese entonces Chuponal se remontaba en la actividad productiva de Café por ser una zona montañosa semi-humeda,  también cultivaban maíz, yuca, caraotas, ocumo, años más tarde se conocio la planta de Cacao. </p>
+    </section>
+
+    <section class="evento">
+      <h2>Primeros Habitantes:</h2>
+      <li> Antonio Mena.</p>
+         <li> Gregorio Paredes.</p>
+         <li> José Contreras.</p>
+         <li>Reimundo Reina. </p>
+         <li>Luis Mendoza.</p>
+         <li>Josefa Villarreal. </p>
+         <li>Andrés Arismendis. </p>
+         <li>Martin Tapia. </p>
+         <li>Alejandro Quintero. </p>
+         <li>Ulogio Zerpa. </p>
+         <li>Clemente Becerra. </p>
+         <li>Fermin Berríos.</p>
+		 <p> Entre otros.</p>
+		 <img src="hola.png" alt="hola" width="300">
+    </section>
+
+    <section class="desarrollo">
+      <h2>Desarrollo del proceso</h2>
+      <p>Narra los hechos principales en orden cronológico. Puedes agregar fechas, protagonistas, decisiones clave o momentos críticos.</p>
+    </section>
+
+    <section class="consecuencias">
+      <h2>Consecuencias e impacto</h2>
+      <p>Analiza los resultados del proceso: cambios en leyes, transformación social, impacto en instituciones, legado histórico.</p>
+    </section>
+
+    <section class="reflexion">
+      <h2>Reflexión final</h2>
+      <p>Ofrece una conclusión personal o académica sobre el significado del evento, su vigencia y lecciones aprendidas.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Ignacio Ángel – Estaba bien aburrido</p>
+  </footer>
+</body>
+</html>
